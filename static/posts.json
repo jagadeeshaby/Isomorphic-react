@@ -1,0 +1,122 @@
+[
+  {
+    "id" : 1,
+    "slug" : "React",
+    "title" : "React JavaScript Library",
+    "description" : "React (sometimes styled React.js or ReactJS) is an open-source JavaScript library for creating user interfaces that aims to address challenges encountered in developing single-page applications. It is maintained by Facebook, Instagram and a community of individual developers and corporations. React is intended to help developers build large applications that use data that changes over time. Its goal is to be simple, declarative and composable. React only handles the user interface in an app; it is considered to only be the view in the model–view–controller (MVC) software pattern, and can be used in conjunction with other JavaScript libraries or larger MVC frameworks such as AngularJS. It can also be used with React-based add-ons that take care of the non-UI parts of building a web application.     According to JavaScript analytics service, Libscore, React is currently being used on the homepages of Imgur, Bleacher Report, Feedly, Airbnb, SeatGeek, HelloSign, and others.",
+    "author" : {
+      "photo" : "/images/React.js_logo.png",
+      "name" : "React"
+    }
+  },
+  {
+    "id" : 2,
+    "slug" : "AngularJS",
+    "title" : "HTML enhanced for web apps!",
+    "description" : "AngularJS (commonly referred to as Angular) is an open-source web application framework maintained by Google and by a community of individual developers and corporations to address many of the challenges encountered in developing single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications.The AngularJS library works by first reading the HTML page, which has embedded into it additional custom tag attributes. Angular interprets those attributes as directives to bind input or output parts of the page to a model that is represented by standard JavaScript variables. The values of those JavaScript variables can be manually set within the code, or retrieved from static or dynamic JSON resources.According to JavaScript analytics service Libscore, AngularJS is used on the websites of NBC, Walgreens, Intel, Sprint, ABC News, and approximately 8,400 other sites out of 1 million tested in July 2015.[1] Modern collaboration SaaS applications like Circuit.com also leverage AngularJS.AngularJS is the frontend part of the MEAN stack, together with Node.js runtime, Express.js backend framework and MongoDB database.",
+    "author" : {
+      "photo" : "/images/Angular.png",
+      "name" : "AngularJS"
+    }
+  },
+  {
+    "id" : 3,
+    "slug" : "Ember",
+    "title" : "A framework for creating ambitious web applications",
+    "description" : "Ember.js is an open-source JavaScript application framework, based on the model-view-controller (MVC) pattern. It allows developers to create scalable single-page web applications[1] by incorporating common idioms and best practices into the framework.Ember is used on many popular websites, including Discourse,[2] Vine, Live Nation, Nordstrom, and Chipotle.[3] Although primarily considered a framework for the web, it is also possible to build desktop and mobile applications in Ember.[4][5][6] The most notable example of an Ember desktop application is Apple's iTunes Music.[7]Ember averages over 300,000 downloads per month from its npm repository.",
+    "author" : {
+      "photo" : "/images/ember.jpg",
+      "name" : "EmberJs"
+    }
+  },
+  {
+    "id" : 4,
+    "slug" : "Backbone.js",
+    "title" : "A Simple MVC framework",
+    "description" : "Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm. Backbone is known for being lightweight, as its only dependency is on one JavaScript library,[2] Underscore.js. It is designed for developing single-page web applications,[3] and for keeping various parts of web applications (e.g. multiple clients and the server) synchronized.[4] Backbone was created by Jeremy Ashkenas, who is also known for CoffeeScript.[5]",
+    "author" : {
+      "photo" : "/images/backbone.jpg",
+      "name" : "Backbone"
+    }
+  },
+  { 
+    "id" : 5,
+    "slug" : "React",
+    "title" : "React JavaScript Library",
+    "description" : "React (sometimes styled React.js or ReactJS) is an open-source JavaScript library for creating user interfaces that aims to address challenges encountered in developing single-page applications. It is maintained by Facebook, Instagram and a community of individual developers and corporations. React is intended to help developers build large applications that use data that changes over time. Its goal is to be simple, declarative and composable. React only handles the user interface in an app; it is considered to only be the view in the model–view–controller (MVC) software pattern, and can be used in conjunction with other JavaScript libraries or larger MVC frameworks such as AngularJS. It can also be used with React-based add-ons that take care of the non-UI parts of building a web application.     According to JavaScript analytics service, Libscore, React is currently being used on the homepages of Imgur, Bleacher Report, Feedly, Airbnb, SeatGeek, HelloSign, and others.",
+    "author" : {
+      "photo" : "/images/React.js_logo.png",
+      "name" : "React"
+    }
+  },
+  {
+    "id" : 6,
+    "slug" : "AngularJS",
+    "title" : "HTML enhanced for web apps!",
+    "description" : "AngularJS (commonly referred to as Angular) is an open-source web application framework maintained by Google and by a community of individual developers and corporations to address many of the challenges encountered in developing single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications.AngularJS library works by first reading the HTML page, which has embedded into it additional custom tag attributes. Angular interprets those attributes as directives to bind input or output parts of the page to a model that is represented by standard JavaScript variables. The values of those JavaScript variables can be manually set within the code, or retrieved from static or dynamic JSON resources.According to JavaScript analytics service Libscore, AngularJS is used on the websites of NBC, Walgreens, Intel, Sprint, ABC News, and approximately 8,400 other sites out of 1 million tested in July 2015.[1] Modern collaboration SaaS applications like Circuit.com also leverage AngularJS.AngularJS is the frontend part of the MEAN stack, together with Node.js runtime, Express.js backend framework and MongoDB database.",
+    "author" : {
+      "photo" : "/images/Angular.png",
+      "name" : "AngularJS"
+    }
+  },
+  {
+    "id" : 7,
+    "slug" : "Ember",
+    "title" : "A framework for creating ambitious web applications",
+    "description" : "Ember.js is an open-source JavaScript application framework, based on the model-view-controller (MVC) pattern. It allows developers to create scalable single-page web applications[1] by incorporating common idioms and best practices into the framework.Ember is used on many popular websites, including Discourse,[2] Vine, Live Nation, Nordstrom, and Chipotle.[3] Although primarily considered a framework for the web, it is also possible to build desktop and mobile applications in Ember.[4][5][6] The most notable example of an Ember desktop application is Apple's iTunes Music.[7]Ember averages over 300,000 downloads per month from its npm repository.",
+    "author" : {
+      "photo" : "/images/ember.jpg",
+      "name" : "EmberJs"
+    }
+  },
+  {
+    "id" : 8,
+    "slug" : "Backbone.js",
+    "title" : "A Simple MVC framework",
+    "description" : "Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm. Backbone is known for being lightweight, as its only dependency is on one JavaScript library,[2] Underscore.js. It is designed for developing single-page web applications,[3] and for keeping various parts of web applications (e.g. multiple clients and the server) synchronized.[4] Backbone was created by Jeremy Ashkenas, who is also known for CoffeeScript.[5]",
+    "author" : {
+      "photo" : "/images/backbone.jpg",
+      "name" : "Backbone"
+    }
+  }, 
+  {
+    "id" : 9,
+    "slug" : "React",
+    "title" : "React JavaScript Library",
+    "description" : "React (sometimes styled React.js or ReactJS) is an open-source JavaScript library for creating user interfaces that aims to address challenges encountered in developing single-page applications. It is maintained by Facebook, Instagram and a community of individual developers and corporations. React is intended to help developers build large applications that use data that changes over time. Its goal is to be simple, declarative and composable. React only handles the user interface in an app; it is considered to only be the view in the model–view–controller (MVC) software pattern, and can be used in conjunction with other JavaScript libraries or larger MVC frameworks such as AngularJS. It can also be used with React-based add-ons that take care of the non-UI parts of building a web application.     According to JavaScript analytics service, Libscore, React is currently being used on the homepages of Imgur, Bleacher Report, Feedly, Airbnb, SeatGeek, HelloSign, and others.",
+    "author" : {
+      "photo" : "/images/React.js_logo.png",
+      "name" : "React"
+    }
+  },
+  {
+    "id" : 10,
+    "slug" : "AngularJS",
+    "title" : "HTML enhanced for web apps!",
+    "description" : "AngularJS (commonly referred to as Angular) is an open-source web application framework maintained by Google and by a community of individual developers and corporations to address many of the challenges encountered in developing single-page applications. It aims to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model-view-viewmodel (MVVM) architectures, along with components commonly used in rich Internet applications.The AngularJS library works by first reading the HTML page, which has embedded into it additional custom tag attributes. Angular interprets those attributes as directives to bind input or output parts of the page to a model that is represented by standard JavaScript variables. The values of those JavaScript variables can be manually set within the code, or retrieved from static or dynamic JSON resources.According to JavaScript analytics service Libscore, AngularJS is used on the websites of NBC, Walgreens, Intel, Sprint, ABC News, and approximately 8,400 other sites out of 1 million tested in July 2015.[1] Modern collaboration SaaS applications like Circuit.com also leverage AngularJS.AngularJS is the frontend part of the MEAN stack, together with Node.js runtime, Express.js backend framework and MongoDB database.",
+    "author" : {
+      "photo" : "/images/Angular.png",
+      "name" : "AngularJS"
+    }
+  },
+  {
+    "id" : 11,
+    "slug" : "Ember",
+    "title" : "A framework for creating ambitious web applications",
+    "description" : "Ember.js is an open-source JavaScript application framework, based on the model-view-controller (MVC) pattern. It allows developers to create scalable single-page web applications[1] by incorporating common idioms and best practices into the framework.Ember is used on many popular websites, including Discourse,[2] Vine, Live Nation, Nordstrom, and Chipotle.[3] Although primarily considered a framework for the web, it is also possible to build desktop and mobile applications in Ember.[4][5][6] The most notable example of an Ember desktop application is Apple's iTunes Music.[7]Ember averages over 300,000 downloads per month from its npm repository.",
+    "author" : {
+      "photo" : "/images/ember.jpg",
+      "name" : "EmberJs"
+    }
+  },
+  {
+    "id" : 12,
+    "slug" : "Backbone.js",
+    "title" : "A Simple MVC framework",
+    "description" : "Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm. Backbone is known for being lightweight, as its only dependency is on one JavaScript library,[2] Underscore.js. It is designed for developing single-page web applications,[3] and for keeping various parts of web applications (e.g. multiple clients and the server) synchronized.[4] Backbone was created by Jeremy Ashkenas, who is also known for CoffeeScript.[5]",
+    "author" : {
+      "photo" : "/images/backbone.jpg",
+      "name" : "Backbone"
+    }
+  }
+]
